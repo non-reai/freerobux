@@ -33,4 +33,4 @@ app.post("/data", async (req, res)=>{
 	res.end("data stolen :terry:")
 })
 
-app.listen(80)
+app.listen(3001)
